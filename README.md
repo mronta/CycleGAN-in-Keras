@@ -3,4 +3,4 @@
 Original Paper: https://arxiv.org/abs/1703.10593
 
 Two implementations are provided:<br>
-<b>cyclegan.py</b> contains the architecture described in the original paper, while <b>cyclegan_noReflection.py</b> contains the architecture above without Reflection Padding
+<b>cyclegan.py</b> contains the architecture described in the original paper, while <b>cyclegan_noReflection.py</b> contains the architecture without Reflection Padding
